@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-image: radial-gradient(rgba(148, 148, 148, 0.3) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
